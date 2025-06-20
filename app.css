@@ -1,6 +1,8 @@
 h1 {
   color: red;
-  background-color: black;
+  /* background-color: black; */
+  /* below is using rgb to pick background colour */
+  background-color: rgb(149, 142, 142);
 }
 
 h2 {
