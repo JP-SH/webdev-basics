@@ -7,5 +7,7 @@ h1 {
 
 h2 {
   color: violet;
-  background-color: grey;
+  /* background-color: grey; */
+  /* below is using  hex colour code to pick background colour*/
+  background-color: #953b28;
 }
