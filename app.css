@@ -4,6 +4,7 @@ h1 {
   /* below is using rgb to pick background colour */
   background-color: rgb(149, 142, 142);
   text-align: center;
+  font-weight: 700;
 }
 
 h2 {
