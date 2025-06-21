@@ -14,3 +14,7 @@ h2 {
   background-color: #953b28;
   text-decoration: underline;
 }
+
+P {
+  line-height: 2;
+}
