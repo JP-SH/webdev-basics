@@ -3,6 +3,7 @@ h1 {
   /* background-color: black; */
   /* below is using rgb to pick background colour */
   background-color: rgb(149, 142, 142);
+  text-align: center;
 }
 
 h2 {
