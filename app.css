@@ -51,3 +51,14 @@ P {
 ul li {
   color: greenyellow;
 }
+
+/* this is an adjacent selector. It selects a button that is preceded by a h2 and on the same level*/
+h2 + button {
+  font-size: 25px;
+  color: blueviolet;
+}
+
+/* this is a direct descentdant selector. It selects an element that is directly the child of another element */
+footer > a {
+  color: yellow;
+}
