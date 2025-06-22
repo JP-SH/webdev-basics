@@ -62,3 +62,9 @@ h2 + button {
 footer > a {
   color: yellow;
 }
+
+/* this is a pseudo class. It only applies when the button is in a certain state. In this example its when you hover over it */
+button:hover {
+  background-color: red;
+  color: white;
+}
