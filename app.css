@@ -1,3 +1,9 @@
+/* '*' is a universal selector. It selects everything on the page */
+* {
+  color: pink;
+}
+
+
 h1 {
   color: red;
   /* background-color: black; */
