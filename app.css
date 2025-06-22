@@ -46,3 +46,8 @@ P {
   color: white;
   font-size: 24px;
 }
+
+/* below is a descendant selector. it is different to using a comma. this is selecting an element that is nested inside of another element. Li wont be effected only the li's nested inside of it */
+ul li {
+  color: greenyellow;
+}
