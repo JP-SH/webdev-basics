@@ -74,3 +74,19 @@ div {
   height: 200px;
   background-color: #953b28;
 }
+
+#one {
+ background-color: aquamarine;
+ border-width: 5px;
+ border-color: black;
+ border-style: solid;
+ box-sizing: border-box;
+}
+
+#two {
+background-color: aqua;
+}
+
+#three {
+background-color: bisque;
+}
