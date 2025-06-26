@@ -13,6 +13,7 @@ h1 {
   background-color: rgb(149, 142, 142);
   text-align: center;
   font-weight: 700;
+  margin-bottom: 0;
 }
 
 h2 {
@@ -21,6 +22,7 @@ h2 {
   /* below is using  hex colour code to pick background colour*/
   background-color: #953b28;
   text-decoration: underline;
+  margin-left: 25px;
 }
 
 /* you can also select multiple elements using a comma */
@@ -85,12 +87,20 @@ div {
 
 #two {
 background-color: aqua;
+ border-width: 5px;
+ border-color: black;
+ border-style: solid;
+ box-sizing: border-box;
 }
 
 #three {
 background-color: bisque;
+ border-width: 5px;
+ border-color: brown;
+ border-style: solid;
+border-radius: 50%;
 }
 
 button {
-  padding: 30px;
+  padding: 15px 30px 45px 60px ;
 }
