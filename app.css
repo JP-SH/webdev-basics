@@ -23,6 +23,7 @@ h2 {
   background-color: #953b28;
   text-decoration: underline;
   margin-left: 25px;
+  display: inline;
 }
 
 /* you can also select multiple elements using a comma */
@@ -34,6 +35,7 @@ h2 {
 
 P {
   line-height: 2;
+  display: block;
 }
 
 /* below is using an id selector */
