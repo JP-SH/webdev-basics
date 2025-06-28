@@ -11,10 +11,9 @@ section {
   /* what these two lines above are saying is for the height a& width to be 50% of the h/w of the parent element which in this case is the section */
 }
 
-#two {
-
-}
-
-#three {
-
+h1 {
+  font-size: 50px;
+  border: 1px solid black;
+  line-height: 100%;
+  /* line height isnt based off the parent class but rather based off the element itself, its own font-size. So the line height is 100% of the font-size */
 }
