@@ -1,0 +1,20 @@
+section {
+  background-color: brown;
+  width: 500px;
+  height: 500px;
+}
+
+#one {
+  background-color: black;
+  width: 50%;
+  height: 50%;
+  /* what these two lines above are saying is for the height a& width to be 50% of the h/w of the parent element which in this case is the section */
+}
+
+#two {
+
+}
+
+#three {
+
+}
