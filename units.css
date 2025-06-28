@@ -5,7 +5,8 @@ section {
 }
 
 #one {
-  background-color: black;
+  background-color: rgba(255, 255, 255, 0.6);
+  /* the last number in the rgba also known as the 'alpha channel' is for the transparency */
   width: 50%;
   height: 50%;
   /* what these two lines above are saying is for the height a& width to be 50% of the h/w of the parent element which in this case is the section */
