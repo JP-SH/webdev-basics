@@ -17,3 +17,17 @@ h1 {
   line-height: 100%;
   /* line height isnt based off the parent class but rather based off the element itself, its own font-size. So the line height is 100% of the font-size */
 }
+
+article {
+  font-size: 25px;
+}
+
+h4 {
+  font-size: 2em;
+  /* thid 'em' sets the font-size based off the parent class font-size which in this case is the article. So 2em is doubling iy so the font-size will be 50px */
+  margin-left: 1em;
+  padding: 0 1em;
+  border-radius: 0.5em;
+  /* these other properties are based off the h4 font-size and not the parent class font-size.  */
+
+}
