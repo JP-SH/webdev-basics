@@ -31,3 +31,9 @@ h4 {
   /* these other properties are based off the h4 font-size and not the parent class font-size.  */
 
 }
+
+ul {
+  /* font-size: 1em; */
+  font-size: 1rem;
+  /* Root element bases the size of the root html element font-size. It can be useful with things that are nexted such as this ul. As since its nested if we were to use em it would become a lot bigger or smaller than intended as there are many parent classes */
+}
