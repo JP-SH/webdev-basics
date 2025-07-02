@@ -8,7 +8,8 @@ div {
 }
 
 #middle {
-  background-color: #81b29a;
+  background-image: url("https://4kwallpapers.com/images/walls/thumbs_3t/17191.png");
+  background-size: cover;
 }
 
 #static #middle {
@@ -30,4 +31,10 @@ div {
   position: absolute;
   top: 50px;
   left: 50px;
+}
+
+#fixed #middle {
+  position: fixed;
+  top: 0px;
+  left: 0px;
 }
