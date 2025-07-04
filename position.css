@@ -10,6 +10,7 @@ div {
 #middle {
   background-image: url("https://4kwallpapers.com/images/walls/thumbs_3t/17191.png");
   background-size: cover;
+  background-position: top;
 }
 
 #static #middle {
